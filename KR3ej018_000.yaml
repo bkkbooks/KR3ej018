@@ -1,0 +1,24 @@
+canonical_identifier: bkk:krp/KR3ej018/jc/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 附録六氣之圖逐年五運六氣圖大寒木運始行初清明前三火運居芒種後三土運是立秋後六金運推立冬後九水運伏周而復始萬年知大寒厥陰氣之初春分君火二之偶小滿少陽分三氣太陰大暑四相呼秋分陽明五之位太陽小雪六之餘
+  hash: sha256:df675cec612460d1679306bf0a1bbb0b0bb580930efc13a24024ae26c9c5caf0
+  markers:
+  - {type: 'tls:head', offset: 0, content: '', id: KR3ej018_jc_000-d10.h1s1}
+  - {type: 'tls:div-start', offset: 2, content: '', id: KR3ej018_jc_000-d10d2, level: 2, head_text: 六氣之圖}
+  - {type: 'tls:head', offset: 2, content: '', id: KR3ej018_jc_000-d10.d2.h1s1}
+  - {type: 'tls:div-end', offset: 6, content: '', id: KR3ej018_jc_000-d10d2}
+  - {type: 'tls:div-start', offset: 6, content: '', id: KR3ej018_jc_000-d10d3, level: 2, head_text: 逐年五運六氣圖}
+  - {type: 'tls:head', offset: 6, content: '', id: KR3ej018_jc_000-d10.d3.h1s1}
+  - {type: 'tls:div-end', offset: 97, content: '', id: KR3ej018_jc_000-d10d3}
+metadata:
+  title: 幼科折衷
+  edition:
+    short: jc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ej018.xml
+hash: sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb
