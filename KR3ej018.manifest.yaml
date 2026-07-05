@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb'}
-  - {seq: 1, filename: KR3ej018_001.yaml, hash: 'sha256:e79d4ab5edcf416316c3c92e18bde873516776f288d3d4bb94c04fe23a6de7ea'}
-  - {seq: 3, filename: KR3ej018_003.yaml, hash: 'sha256:6eb6eab4e2f168603a12ea26e4ababdbbdaef1d124093a792eb1bb9288773142'}
-  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb'}
+  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:f4e83c0cdef9769d783782fcddca9240a5effadd8c97e3b7e5c90a218ba3a3bc'}
+  - {seq: 1, filename: KR3ej018_001.yaml, hash: 'sha256:4138e05af35785ac20d17a64c93a2bf8a0ecb63908d93376445e5294a867f5ea'}
+  - {seq: 3, filename: KR3ej018_003.yaml, hash: 'sha256:a9d0eb45cdbc3e817870ef909f7ffaa0f98b6a03df3ca860115cbf287c20fd5a'}
+  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:f4e83c0cdef9769d783782fcddca9240a5effadd8c97e3b7e5c90a218ba3a3bc'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej018_000.markers.yaml, hash: 'sha256:993304cb8f7023a8013eb0bf1191ca13de7e550bec3a171f812054608d87af6e'}
-  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:e19b377e9befe8fe97626a51f3c8ab5b72c70d28b1e68d087356a289f1620988'}
-  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:d01d553e020d9bee3d1f736f77b9c3add732ba3c8f78200cfb96df1a24da4bb8'}
+  - {seq: 0, role: markers, filename: assets/KR3ej018_000.markers.yaml, hash: 'sha256:dd76a4678347b0ccc0fb6541fe032d1d9d932caef13ec85ddb397b5d5b944f6d'}
+  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:0fe4ed664671ba39118d9f3e3a2d941a97f4fe27ce7689d54332ebba8cf8df77'}
+  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:5e2656621f46b6ab3da38cfbe3cfe04a5290928ee5de6ce6a5435fc664a0fb3a'}
 table_of_contents:
 - ref:
     seq: 0
@@ -786,7 +786,4 @@ table_of_contents:
   label: 逐年五運六氣圖
   type: section
   level: 2
-hash: sha256:88af979a6ea953dc27db73e4fb00ebcfbe104ff34ca663d89ee227d0e565ac36
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:44662bda2b2c8fd1deecad4df5a95fe91cd18f51628dc12c6b08d0ae732b9a44
