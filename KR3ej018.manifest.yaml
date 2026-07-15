@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ej018/v1
 canonical_location: https://kanripo.org/bkk/KR3ej018/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 幼科折衷
   identifiers:
@@ -17,14 +17,14 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:f4e83c0cdef9769d783782fcddca9240a5effadd8c97e3b7e5c90a218ba3a3bc'}
-  - {seq: 1, filename: KR3ej018_001.yaml, hash: 'sha256:4138e05af35785ac20d17a64c93a2bf8a0ecb63908d93376445e5294a867f5ea'}
-  - {seq: 3, filename: KR3ej018_003.yaml, hash: 'sha256:a9d0eb45cdbc3e817870ef909f7ffaa0f98b6a03df3ca860115cbf287c20fd5a'}
-  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:f4e83c0cdef9769d783782fcddca9240a5effadd8c97e3b7e5c90a218ba3a3bc'}
+  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb'}
+  - {seq: 1, filename: KR3ej018_001.yaml, hash: 'sha256:d94539dbb4ca047486ab8174842c65f4b61db094df6aeab582689661603c9785'}
+  - {seq: 3, filename: KR3ej018_003.yaml, hash: 'sha256:a843974f8b8c674bcf07bbd69c4dce66e4a5f3f361f57b3c621e2ac4bcf01885'}
+  - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ej018_000.markers.yaml, hash: 'sha256:dd76a4678347b0ccc0fb6541fe032d1d9d932caef13ec85ddb397b5d5b944f6d'}
-  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:0fe4ed664671ba39118d9f3e3a2d941a97f4fe27ce7689d54332ebba8cf8df77'}
-  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:5e2656621f46b6ab3da38cfbe3cfe04a5290928ee5de6ce6a5435fc664a0fb3a'}
+  - {seq: 0, role: markers, filename: assets/KR3ej018_000.markers.yaml, hash: 'sha256:ad1e7803cd8ea1ce4c27003ba43b7f4a5a837647bd4224c85f2349a37de4f8df'}
+  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:ee1769c9b1aafd2c0a1d52af0f6df61eeded655c4cfa645e327ab698179d9aa3'}
+  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:96df071190f1c652ed1b75a755cff1036bfe7ac1965c3aa112b1349b0ca0c3d1'}
 table_of_contents:
 - ref:
     seq: 0
@@ -786,4 +786,7 @@ table_of_contents:
   label: 逐年五運六氣圖
   type: section
   level: 2
-hash: sha256:44662bda2b2c8fd1deecad4df5a95fe91cd18f51628dc12c6b08d0ae732b9a44
+hash: sha256:78f32fa5448d9b45d1fc4e626f789f2a3bb52c2373e2111e25470aac834ee61d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
