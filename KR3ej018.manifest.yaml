@@ -23,8 +23,8 @@ assets:
   - {seq: 0, filename: KR3ej018_000.yaml, hash: 'sha256:45107e91ef3af03b33fa92fde2faccfb99dfad88a1992833f575efbd23963bbb'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej018_000.markers.yaml, hash: 'sha256:ad1e7803cd8ea1ce4c27003ba43b7f4a5a837647bd4224c85f2349a37de4f8df'}
-  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:ee1769c9b1aafd2c0a1d52af0f6df61eeded655c4cfa645e327ab698179d9aa3'}
-  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:96df071190f1c652ed1b75a755cff1036bfe7ac1965c3aa112b1349b0ca0c3d1'}
+  - {seq: 1, role: markers, filename: assets/KR3ej018_001.markers.yaml, hash: 'sha256:c4a36b16bb3c60e395f482864983e591bde54cda0389acc197bc1469c93ca50b'}
+  - {seq: 3, role: markers, filename: assets/KR3ej018_003.markers.yaml, hash: 'sha256:51efb04762bf4a21bf5f7c86b76355397187e8802c99616500403464a24ea4d3'}
 table_of_contents:
 - ref:
     seq: 0
@@ -786,7 +786,7 @@ table_of_contents:
   label: 逐年五運六氣圖
   type: section
   level: 2
-hash: sha256:78f32fa5448d9b45d1fc4e626f789f2a3bb52c2373e2111e25470aac834ee61d
+hash: sha256:9e3d187615e9a70ee0080fd3532da60d5f12a2e26ac739320cdde9e975452dce
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

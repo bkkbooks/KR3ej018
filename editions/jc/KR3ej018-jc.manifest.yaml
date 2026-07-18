@@ -23,9 +23,8 @@ assets:
   - {seq: 0, filename: KR3ej018_000-jc.yaml, hash: 'sha256:f4e83c0cdef9769d783782fcddca9240a5effadd8c97e3b7e5c90a218ba3a3bc'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR3ej018_000-jc.markers.yaml, hash: 'sha256:0eebec888f8af357ff167bf6430aff379c2a75b4b124a1d30b85511409b1ee50'}
-  - {seq: 1, role: markers, filename: assets/KR3ej018_001-jc.markers.yaml, hash: 'sha256:f332007182dfa0851b4bdf38a215f7aba22ee462bc70a374be349e5b5e1c9c14'}
-  - {seq: 3, role: markers, filename: assets/KR3ej018_003-jc.markers.yaml, hash: 'sha256:9af07acff56bd2157dd7aad005887103e4fc48c3a4bfbc0647a1aaafc04bc975'}
-  - {seq: 0, role: markers, filename: assets/KR3ej018_000-jc.markers.yaml, hash: 'sha256:0eebec888f8af357ff167bf6430aff379c2a75b4b124a1d30b85511409b1ee50'}
+  - {seq: 1, role: markers, filename: assets/KR3ej018_001-jc.markers.yaml, hash: 'sha256:b84df7365d9cd1cafb6a82b3cb66e3e052eb9f6e15488f026591a6db6fce343e'}
+  - {seq: 3, role: markers, filename: assets/KR3ej018_003-jc.markers.yaml, hash: 'sha256:6c68b667b9af7ea31fd0b6e6b43c0d34b93f413d42b97d67c396d04ba5f0ba5b'}
 table_of_contents:
 - ref:
     seq: 0
@@ -787,4 +786,4 @@ table_of_contents:
   label: 逐年五運六氣圖
   type: section
   level: 2
-hash: sha256:50ed1e09ed7b4a4e49d68a0604d1841492c86e09191a18f48527257cf6611196
+hash: sha256:a0fd67bcda1851f31c9b370bb515b77cb7d87010c6e26e3cdfc75cfec7543c48
